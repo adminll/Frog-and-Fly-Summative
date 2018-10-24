@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment1.text=\r\n\ draws\ a\ random\ number,\ dpending\ on\ the\ number,\ the\ speed\ will\ be\ between\ 4\ and\ 8\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ is\ for\ movement\ and\ turning\ if\ at\ edge\ of\ world\r\n
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=\r\n\ turns\ the\ frog\ different\ directions\ (35%)\r\n
+numComments=4

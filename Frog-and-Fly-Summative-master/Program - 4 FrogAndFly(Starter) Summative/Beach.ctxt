@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment1.text=\r\n\ Adds\ the\ scoreboard\ and\ items\ into\ the\ world\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Respawns\ the\ food\r\n
+comment3.params=n
+comment3.target=void\ addFood(int)
+comment3.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Adds\ the\ fly,\ frog,\ scoreboard,\ and\ the\ food\ into\ the\ world\r\n
+comment5.params=
+comment5.target=void\ update()
+comment5.text=\r\n\ Updates\ the\ world\r\n
+numComments=6
